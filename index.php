@@ -15,7 +15,7 @@
             <div class="col-md-3"> </div>
             <div class="col-md-6" style="border: 3px solid white; margin-top:10px;">
                 <h1 class="text-primary text-center">Gerador de promissórias</h1>
-                <form method='post' action="procesar.php">
+                <form method='post' action="processar.php">
                     <fieldset>
                         <!-- Numero -->
                         <div class='form-group '>
