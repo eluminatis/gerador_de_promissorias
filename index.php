@@ -13,7 +13,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3"> </div>
-            <div class="col-md-6" style="border: 3px solid white; margin-top:10px;">
+            <div class="col-md-6" style="border: 3px solid white; margin-top:10px;background-color: #e1e1e1">
                 <h1 class="text-primary text-center">Gerador de promissórias</h1>
                 <form method='post' action="processar.php">
                     <fieldset>
